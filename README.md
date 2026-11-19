@@ -1,7 +1,7 @@
 
 # Personal Budget Manager
 
-Practice 1 — Programming with Python
+Practice 1 - Programming with Python
 
 ## Description
 
@@ -68,13 +68,7 @@ To calculate their summary:
 python run.py --data data/sample_transactions.csv summary
 ```
 
-Expected result:
 
-```text
-Total Income: 2500.00 EUR
-Total Expenses: 871.50 EUR
-Current Balance: 1628.50 EUR
-```
 
 ## Tests
 
