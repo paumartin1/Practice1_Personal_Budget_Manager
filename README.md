@@ -13,7 +13,7 @@ Transactions are stored in a CSV file.
 
 ## Requirements
 
-- Python 3.10 or later
+- Python 3.14
 - No external libraries required
 
 ## How to run
